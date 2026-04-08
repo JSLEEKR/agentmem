@@ -2,7 +2,7 @@
 
 [![Go](https://img.shields.io/badge/Go-1.26+-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-[![Tests](https://img.shields.io/badge/Tests-153-brightgreen?style=for-the-badge)](https://github.com/JSLEEKR/agentmem)
+[![Tests](https://img.shields.io/badge/Tests-128-brightgreen?style=for-the-badge)](https://github.com/JSLEEKR/agentmem)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-blue?style=for-the-badge)]()
 
 Testing framework for AI agent memory systems. Validates memory persistence, tests recall accuracy, detects staleness and corruption, benchmarks retrieval latency, and verifies pruning logic.
